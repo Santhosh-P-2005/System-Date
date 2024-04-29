@@ -1,0 +1,32 @@
+h1{
+    font-size: 80px;
+    color: rgba(255, 8, 8, 2);
+}
+h2{
+    font-size: 50px;
+    color: rgba(255, 8, 8, 2);
+}
+h3{
+    font-size: 60px;
+    color: rgba(255, 8, 8, 2);
+}
+body{
+    width: 75%;
+    background-image: url("clock.png");
+    background-position: center;
+    position: center;
+    background-size: cover;
+    padding: 200px 1px;
+    box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 15px;
+    margin: 10px auto 0;
+}
+.time-and-date
+{
+    text-align: center;
+}
+.timedatebox
+{
+    background: rgba(244, 246, 244, 0.5);
+        height: 200px;
+}
